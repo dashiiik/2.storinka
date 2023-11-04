@@ -1,0 +1,53 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(124, 102, 86);
+}
+.r{
+ text-align: center;
+ color: blanchedalmond;
+}
+header{
+    background-color: rgb(98, 87, 71);
+    padding: 5px;
+    border: 5px double blanchedalmond;
+    border-radius: 10px;
+}
+.t{
+    text-align: center;
+    border:5px double blanchedalmond;
+    color: blanchedalmond;
+    border-radius: 10px;
+}
+img{
+    border: 5px double blanchedalmond;
+    border-radius: 10px;
+}
+main{
+    color: blanchedalmond;
+    background-color: rgb(80, 73, 63);
+    border: 5px double blanchedalmond;
+    border-radius: 10px;
+}
+.q{
+    position: absolute;
+    top: 430%;
+    left:40%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-right: 10%;
+    padding-left: 10%;
+}
+.q{
+    background-color: blanchedalmond;
+    padding: 1px;
+    color: wheat;
+}
+footer{
+    background-color: wheat;
+}
+img:hover{
+    opacity: 1;
+    border: 6px solid blanchedalmond;
+    transition: 0.5s ease-out;
+    padding: 5px;
+}
